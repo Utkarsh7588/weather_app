@@ -1,0 +1,1 @@
+const forecastScreenRoute = '/forecast/notes';
